@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
    "price_usd": 64.3,
   "vehicles": [
     { "id": 1, "name": "TOYOTA COROLLA", "year": 2005, "price_afn": 104593 },
@@ -2853,8 +2853,8 @@
     {
       "id": 139,
       "state": "MASSACHUSETTS (MA)",
-      "branch": "TAUNTON EAST",
-      "city": "TAUNTON",
+      "branch": "TAUNTON",
+      "city": "TAUNTON EAST",
       "source": "IAAI",
       "lat": 41.84978226750103,
       "lng": -70.9927108,
