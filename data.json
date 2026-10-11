@@ -11237,7 +11237,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "ship": 2255,
+          "ship": 0,
           "lat": 33.7701,
           "lng": -118.1937,
           "herat": 1900,
@@ -11256,7 +11256,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "ship": 2255,
+          "ship": 0,
           "lat": 33.7701,
           "lng": -118.1937,
           "herat": 1900,
@@ -11275,7 +11275,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "ship": 2255,
+          "ship": 0,
           "lat": 33.7701,
           "lng": -118.1937,
           "herat": 1900,
@@ -11294,7 +11294,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "ship": 2255,
+          "ship": 0,
           "lat": 33.7701,
           "lng": -118.1937,
           "herat": 1900,
