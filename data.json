@@ -1,6 +1,10 @@
 {
   "version": 31,
   "price_usd": 64.5,
+  "shipping_rates_to_herat": {
+    "tr": 1900,
+    "uae": 840
+  },
   "vehicles": [
     {
       "id": 1,
