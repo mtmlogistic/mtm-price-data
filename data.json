@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "price_usd": 64.5,
   "shipping_rates_to_herat": {
     "tr": 1900,
@@ -11849,7 +11849,7 @@
         {
           "name": "TORONTO, CANADA",
           "shipping_to_tr": null,
-          "shipping_to_uae": 3515,
+          "shipping_to_uae": 3875,
           "lat": 43.6532,
           "lng": -79.3832,
           "herat": 820,
