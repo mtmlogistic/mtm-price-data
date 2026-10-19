@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 34,
   "price_usd": 64.5,
   "shipping_rates_to_herat": {
     "tr": 1900,
@@ -1929,7 +1929,7 @@
         {
           "name": "GEORGIA, USA",
           "shipping_to_tr": 1200,
-          "shipping_to_uae": null,
+          "shipping_to_uae": 2000,
           "lat": 32.0762,
           "lng": -81.0884,
           "avill": "true"
