@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "price_usd": 64.5,
   "shipping_rates_to_herat": {
     "tr": 1775,
@@ -1928,7 +1928,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1475,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -1968,7 +1968,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1565,
+          "shipping_to_tr": 1425,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -1988,7 +1988,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1475,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2008,7 +2008,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1590,
+          "shipping_to_tr": 1450,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2028,7 +2028,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1475,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2048,7 +2048,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1475,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2068,7 +2068,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1475,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2108,7 +2108,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1475,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2148,7 +2148,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1480,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2168,7 +2168,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1480,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2188,7 +2188,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1465,
+          "shipping_to_tr": 1330,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2208,7 +2208,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1515,
+          "shipping_to_tr": 1375,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2228,7 +2228,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1515,
+          "shipping_to_tr": 1375,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2248,7 +2248,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1560,
+          "shipping_to_tr": 1420,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2268,7 +2268,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1465,
+          "shipping_to_tr": 1325,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2288,7 +2288,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1465,
+          "shipping_to_tr": 1325,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2308,7 +2308,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1350,
+          "shipping_to_tr": 1225,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2388,7 +2388,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1480,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2408,7 +2408,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1515,
+          "shipping_to_tr": 1375,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2428,7 +2428,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1480,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2448,7 +2448,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1515,
+          "shipping_to_tr": 1375,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2468,7 +2468,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1515,
+          "shipping_to_tr": 1375,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2488,7 +2488,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1540,
+          "shipping_to_tr": 1400,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2508,7 +2508,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1515,
+          "shipping_to_tr": 1375,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2528,7 +2528,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1515,
+          "shipping_to_tr": 1375,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2548,7 +2548,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1515,
+          "shipping_to_tr": 1375,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2588,7 +2588,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1480,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2608,7 +2608,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1480,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2628,7 +2628,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1350,
+          "shipping_to_tr": 1225,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2648,7 +2648,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1465,
+          "shipping_to_tr": 1325,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2668,7 +2668,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1490,
+          "shipping_to_tr": 1350,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2708,7 +2708,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1390,
+          "shipping_to_tr": 1275,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2728,7 +2728,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1390,
+          "shipping_to_tr": 1275,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2748,7 +2748,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1410,
+          "shipping_to_tr": 1275,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2768,7 +2768,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1385,
+          "shipping_to_tr": 1265,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2788,7 +2788,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1390,
+          "shipping_to_tr": 1250,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2808,7 +2808,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1390,
+          "shipping_to_tr": 1250,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2828,7 +2828,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1395,
+          "shipping_to_tr": 1275,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2848,7 +2848,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1140,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2868,7 +2868,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1400,
+          "shipping_to_tr": 1275,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2888,7 +2888,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1430,
+          "shipping_to_tr": 1290,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2908,7 +2908,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1300,
+          "shipping_to_tr": 1160,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2928,7 +2928,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1410,
+          "shipping_to_tr": 1275,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2948,7 +2948,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1410,
+          "shipping_to_tr": 1275,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2968,7 +2968,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1400,
+          "shipping_to_tr": 1260,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -2988,7 +2988,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1725,
+          "shipping_to_tr": 1585,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3028,7 +3028,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1660,
+          "shipping_to_tr": 1525,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3068,7 +3068,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1660,
+          "shipping_to_tr": 1525,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3088,7 +3088,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1755,
+          "shipping_to_tr": 1615,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3108,7 +3108,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1660,
+          "shipping_to_tr": 1525,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3128,7 +3128,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1660,
+          "shipping_to_tr": 1525,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3148,7 +3148,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1660,
+          "shipping_to_tr": 1525,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3168,7 +3168,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1690,
+          "shipping_to_tr": 1550,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3188,7 +3188,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1660,
+          "shipping_to_tr": 1525,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3208,7 +3208,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1715,
+          "shipping_to_tr": 1575,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3228,7 +3228,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1540,
+          "shipping_to_tr": 1425,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3248,7 +3248,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1550,
+          "shipping_to_tr": 1425,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3268,7 +3268,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1550,
+          "shipping_to_tr": 1425,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3288,7 +3288,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1415,
+          "shipping_to_tr": 1275,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3308,7 +3308,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1480,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3328,7 +3328,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1470,
+          "shipping_to_tr": 1330,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3348,7 +3348,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1460,
+          "shipping_to_tr": 1325,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3368,7 +3368,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1415,
+          "shipping_to_tr": 1300,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3388,7 +3388,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1480,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3408,7 +3408,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1455,
+          "shipping_to_tr": 1315,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3428,7 +3428,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1400,
+          "shipping_to_tr": 1265,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3448,7 +3448,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1480,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3468,7 +3468,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1415,
+          "shipping_to_tr": 1300,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3488,7 +3488,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1425,
+          "shipping_to_tr": 1300,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3508,7 +3508,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1590,
+          "shipping_to_tr": 1450,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3528,7 +3528,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1480,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3548,7 +3548,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1425,
+          "shipping_to_tr": 1300,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3568,7 +3568,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1350,
+          "shipping_to_tr": 1210,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3588,7 +3588,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1430,
+          "shipping_to_tr": 1300,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3608,7 +3608,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1415,
+          "shipping_to_tr": 1300,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3628,7 +3628,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1015,
+          "shipping_to_tr": 1210,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3648,7 +3648,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1390,
+          "shipping_to_tr": 1250,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3668,7 +3668,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1475,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3688,7 +3688,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1560,
+          "shipping_to_tr": 1420,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3708,7 +3708,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1550,
+          "shipping_to_tr": 1410,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3728,7 +3728,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1540,
+          "shipping_to_tr": 1400,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3748,7 +3748,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1665,
+          "shipping_to_tr": 1525,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -3788,7 +3788,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1475,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -3808,7 +3808,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1475,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -3828,7 +3828,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1475,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -3848,7 +3848,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1495,
+          "shipping_to_tr": 1340,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -3868,7 +3868,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1525,
+          "shipping_to_tr": 1365,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -3888,7 +3888,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1945,
+          "shipping_to_tr": 1765,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -3908,7 +3908,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1825,
+          "shipping_to_tr": 1665,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -3928,7 +3928,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1800,
+          "shipping_to_tr": 1640,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -3948,7 +3948,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -3968,7 +3968,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -3988,7 +3988,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4008,7 +4008,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1725,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4028,7 +4028,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1775,
+          "shipping_to_tr": 1615,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4048,7 +4048,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4068,7 +4068,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1945,
+          "shipping_to_tr": 1765,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4108,7 +4108,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1850,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4128,7 +4128,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1785,
+          "shipping_to_tr": 1640,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4148,7 +4148,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1775,
+          "shipping_to_tr": 1615,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4168,7 +4168,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1785,
+          "shipping_to_tr": 1640,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4188,7 +4188,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1815,
+          "shipping_to_tr": 1665,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4208,7 +4208,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1815,
+          "shipping_to_tr": 1655,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4248,7 +4248,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1645,
+          "shipping_to_tr": 1485,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4268,7 +4268,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1645,
+          "shipping_to_tr": 1485,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4288,7 +4288,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1685,
+          "shipping_to_tr": 1525,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4308,7 +4308,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1525,
+          "shipping_to_tr": 1365,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4348,7 +4348,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1525,
+          "shipping_to_tr": 1365,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4368,7 +4368,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1525,
+          "shipping_to_tr": 1365,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4388,7 +4388,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1525,
+          "shipping_to_tr": 1365,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4428,7 +4428,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1535,
+          "shipping_to_tr": 1390,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4468,7 +4468,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1565,
+          "shipping_to_tr": 1405,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4488,7 +4488,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1565,
+          "shipping_to_tr": 1405,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4508,7 +4508,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1550,
+          "shipping_to_tr": 1390,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4528,7 +4528,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1825,
+          "shipping_to_tr": 1665,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4548,7 +4548,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1725,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4568,7 +4568,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1825,
+          "shipping_to_tr": 1665,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4588,7 +4588,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4608,7 +4608,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1850,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4628,7 +4628,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 2445,
+          "shipping_to_tr": 2165,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4648,7 +4648,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1800,
+          "shipping_to_tr": 1640,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4668,7 +4668,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1800,
+          "shipping_to_tr": 1640,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4688,7 +4688,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1875,
+          "shipping_to_tr": 1715,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4708,7 +4708,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1825,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4728,7 +4728,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1825,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4748,7 +4748,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1825,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4828,7 +4828,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1455,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4848,7 +4848,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1455,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4868,7 +4868,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1375,
+          "shipping_to_tr": 1215,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4888,7 +4888,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1380,
+          "shipping_to_tr": 1240,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4908,7 +4908,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1415,
+          "shipping_to_tr": 1255,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4948,7 +4948,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1375,
+          "shipping_to_tr": 1215,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4968,7 +4968,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1435,
+          "shipping_to_tr": 1275,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -4988,7 +4988,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1395,
+          "shipping_to_tr": 1235,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5008,7 +5008,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1425,
+          "shipping_to_tr": 1265,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5048,7 +5048,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1465,
+          "shipping_to_tr": 1305,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5068,7 +5068,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1625,
+          "shipping_to_tr": 1465,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5088,7 +5088,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1490,
+          "shipping_to_tr": 1330,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5108,7 +5108,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1445,
+          "shipping_to_tr": 1285,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5128,7 +5128,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1445,
+          "shipping_to_tr": 1285,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5148,7 +5148,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1665,
+          "shipping_to_tr": 1505,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5168,7 +5168,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1475,
+          "shipping_to_tr": 1330,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5188,7 +5188,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1475,
+          "shipping_to_tr": 1330,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5208,7 +5208,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1575,
+          "shipping_to_tr": 1415,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5228,7 +5228,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1565,
+          "shipping_to_tr": 1405,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5248,7 +5248,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1685,
+          "shipping_to_tr": 1525,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5268,7 +5268,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 2275,
+          "shipping_to_tr": 2065,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5296,7 +5296,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 2455,
+          "shipping_to_tr": 2195,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5316,7 +5316,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5336,7 +5336,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5356,7 +5356,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1825,
+          "shipping_to_tr": 1665,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5396,7 +5396,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5416,7 +5416,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5436,7 +5436,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1850,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5456,7 +5456,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1925,
+          "shipping_to_tr": 1765,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5476,7 +5476,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1650,
+          "shipping_to_tr": 1490,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5496,7 +5496,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1650,
+          "shipping_to_tr": 1490,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5516,7 +5516,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5536,7 +5536,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1645,
+          "shipping_to_tr": 1485,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5556,7 +5556,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1565,
+          "shipping_to_tr": 1405,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5576,7 +5576,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1645,
+          "shipping_to_tr": 1485,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5596,7 +5596,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1465,
+          "shipping_to_tr": 1305,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5616,7 +5616,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1145,
+          "shipping_to_tr": 1325,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5636,7 +5636,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1495,
+          "shipping_to_tr": 1335,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5676,7 +5676,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1665,
+          "shipping_to_tr": 1505,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5696,7 +5696,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1495,
+          "shipping_to_tr": 1335,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5736,7 +5736,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1535,
+          "shipping_to_tr": 1375,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5756,7 +5756,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1475,
+          "shipping_to_tr": 1315,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5776,7 +5776,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1565,
+          "shipping_to_tr": 1405,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5796,7 +5796,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1550,
+          "shipping_to_tr": 1390,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5816,7 +5816,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 2375,
+          "shipping_to_tr": 2115,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5836,7 +5836,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 2375,
+          "shipping_to_tr": 2140,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5856,7 +5856,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1665,
+          "shipping_to_tr": 1515,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5876,7 +5876,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1715,
+          "shipping_to_tr": 1555,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5896,7 +5896,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1740,
+          "shipping_to_tr": 1580,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5916,7 +5916,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1575,
+          "shipping_to_tr": 1415,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5936,7 +5936,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1625,
+          "shipping_to_tr": 1465,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5956,7 +5956,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1675,
+          "shipping_to_tr": 1515,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5976,7 +5976,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1575,
+          "shipping_to_tr": 1415,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -5996,7 +5996,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1575,
+          "shipping_to_tr": 1425,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6016,7 +6016,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1575,
+          "shipping_to_tr": 1415,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6044,7 +6044,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1455,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6064,7 +6064,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1600,
+          "shipping_to_tr": 1440,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6084,7 +6084,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1585,
+          "shipping_to_tr": 1425,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6104,7 +6104,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1625,
+          "shipping_to_tr": 1490,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6124,7 +6124,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1585,
+          "shipping_to_tr": 1425,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6144,7 +6144,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6164,7 +6164,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1765,
+          "shipping_to_tr": 1605,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6184,7 +6184,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1850,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6204,7 +6204,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1850,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6224,7 +6224,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1950,
+          "shipping_to_tr": 1790,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6244,7 +6244,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1850,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6264,7 +6264,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1850,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6284,7 +6284,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1850,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -6304,7 +6304,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2165,
+          "shipping_to_tr": 1895,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6344,7 +6344,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 1831,
+          "shipping_to_tr": 1895,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7512,7 +7512,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2320,
+          "shipping_to_tr": 1695,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -8020,7 +8020,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 2070,
+          "shipping_to_tr": 1895,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8040,7 +8040,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 2070,
+          "shipping_to_tr": 1895,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8060,7 +8060,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1745,
+          "shipping_to_tr": 1570,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8080,7 +8080,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1695,
+          "shipping_to_tr": 1545,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8100,7 +8100,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1710,
+          "shipping_to_tr": 1545,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8120,7 +8120,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1745,
+          "shipping_to_tr": 1570,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8140,7 +8140,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1920,
+          "shipping_to_tr": 1745,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8160,7 +8160,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1920,
+          "shipping_to_tr": 1745,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8188,7 +8188,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1920,
+          "shipping_to_tr": 1745,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8216,7 +8216,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1920,
+          "shipping_to_tr": 1745,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8244,7 +8244,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1920,
+          "shipping_to_tr": 1745,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8272,7 +8272,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 2195,
+          "shipping_to_tr": 1770,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8300,7 +8300,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1845,
+          "shipping_to_tr": 1670,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8320,7 +8320,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1845,
+          "shipping_to_tr": 1670,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8340,7 +8340,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1795,
+          "shipping_to_tr": 1645,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8360,7 +8360,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1595,
+          "shipping_to_tr": 1445,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8380,7 +8380,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1620,
+          "shipping_to_tr": 1445,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8400,7 +8400,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1645,
+          "shipping_to_tr": 1470,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8420,7 +8420,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1445,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8440,7 +8440,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1440,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8460,7 +8460,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1445,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8480,7 +8480,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1855,
+          "shipping_to_tr": 1695,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8500,7 +8500,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1855,
+          "shipping_to_tr": 1695,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8520,7 +8520,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1855,
+          "shipping_to_tr": 1695,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8540,7 +8540,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1855,
+          "shipping_to_tr": 1695,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8560,7 +8560,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1855,
+          "shipping_to_tr": 1695,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8580,7 +8580,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1870,
+          "shipping_to_tr": 1695,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8608,7 +8608,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1765,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8628,7 +8628,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1325,
+          "shipping_to_tr": 1520,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8648,7 +8648,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1765,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8668,7 +8668,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1710,
+          "shipping_to_tr": 1545,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8708,7 +8708,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1445,
+          "shipping_to_tr": 1270,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8728,7 +8728,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1695,
+          "shipping_to_tr": 1520,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8748,7 +8748,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1580,
+          "shipping_to_tr": 1405,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8768,7 +8768,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1580,
+          "shipping_to_tr": 1405,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8788,7 +8788,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1590,
+          "shipping_to_tr": 1415,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8828,7 +8828,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1545,
+          "shipping_to_tr": 1395,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8848,7 +8848,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1575,
+          "shipping_to_tr": 1400,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8868,7 +8868,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1540,
+          "shipping_to_tr": 1365,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8888,7 +8888,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1570,
+          "shipping_to_tr": 1395,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8928,7 +8928,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1590,
+          "shipping_to_tr": 1415,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8968,7 +8968,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1540,
+          "shipping_to_tr": 1365,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -8988,7 +8988,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1545,
+          "shipping_to_tr": 1395,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9028,7 +9028,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1685,
+          "shipping_to_tr": 1520,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9048,7 +9048,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1665,
+          "shipping_to_tr": 1490,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9068,7 +9068,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1445,
+          "shipping_to_tr": 1270,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9088,7 +9088,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1695,
+          "shipping_to_tr": 1520,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9108,7 +9108,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1570,
+          "shipping_to_tr": 1395,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9128,7 +9128,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1785,
+          "shipping_to_tr": 1640,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9148,7 +9148,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1785,
+          "shipping_to_tr": 1640,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9168,7 +9168,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1785,
+          "shipping_to_tr": 1640,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9188,7 +9188,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1815,
+          "shipping_to_tr": 1655,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9208,7 +9208,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1975,
+          "shipping_to_tr": 1765,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9228,7 +9228,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1850,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9268,7 +9268,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1525,
+          "shipping_to_tr": 1365,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9288,7 +9288,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1525,
+          "shipping_to_tr": 1365,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9308,7 +9308,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1825,
+          "shipping_to_tr": 1665,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9328,7 +9328,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1875,
+          "shipping_to_tr": 1715,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9348,7 +9348,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1925,
+          "shipping_to_tr": 1765,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9388,7 +9388,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1750,
+          "shipping_to_tr": 1590,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9408,7 +9408,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1475,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -9428,7 +9428,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1685,
+          "shipping_to_tr": 1520,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9448,7 +9448,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1845,
+          "shipping_to_tr": 1670,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9468,7 +9468,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1695,
+          "shipping_to_tr": 1520,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9488,7 +9488,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1675,
+          "shipping_to_tr": 1520,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9508,7 +9508,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1710,
+          "shipping_to_tr": 1545,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9528,7 +9528,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1445,
+          "shipping_to_tr": 1270,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9548,7 +9548,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1445,
+          "shipping_to_tr": 1270,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9568,7 +9568,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1875,
+          "shipping_to_tr": 1715,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9588,7 +9588,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1550,
+          "shipping_to_tr": 1410,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -9608,7 +9608,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1425,
+          "shipping_to_tr": 1300,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -9628,7 +9628,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1715,
+          "shipping_to_tr": 1575,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -9648,7 +9648,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1385,
+          "shipping_to_tr": 1265,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -9668,7 +9668,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1390,
+          "shipping_to_tr": 1275,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -9688,7 +9688,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1400,
+          "shipping_to_tr": 1275,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -9728,7 +9728,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2165,
+          "shipping_to_tr": 1895,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -9748,7 +9748,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1875,
+          "shipping_to_tr": 1715,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9768,7 +9768,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1875,
+          "shipping_to_tr": 1715,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9788,7 +9788,7 @@
       "ports": [
         {
           "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1850,
+          "shipping_to_tr": 1690,
           "shipping_to_uae": null,
           "lat": 40.7357,
           "lng": -74.1724,
@@ -9808,7 +9808,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1515,
+          "shipping_to_tr": 1375,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -9828,7 +9828,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1300,
+          "shipping_to_tr": 1160,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -9848,7 +9848,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1150,
+          "shipping_to_tr": 1365,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -9868,7 +9868,7 @@
       "ports": [
         {
           "name": "GEORGIA, USA",
-          "shipping_to_tr": 1350,
+          "shipping_to_tr": 1210,
           "shipping_to_uae": null,
           "lat": 32.0762,
           "lng": -81.0884,
@@ -9888,7 +9888,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1615,
+          "shipping_to_tr": 1445,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9908,7 +9908,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1555,
+          "shipping_to_tr": 1395,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9928,7 +9928,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1585,
+          "shipping_to_tr": 1410,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9948,7 +9948,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1585,
+          "shipping_to_tr": 1410,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -9968,7 +9968,7 @@
       "ports": [
         {
           "name": "TEXAS, USA",
-          "shipping_to_tr": 1565,
+          "shipping_to_tr": 1395,
           "shipping_to_uae": null,
           "lat": 29.7604,
           "lng": -95.3698,
@@ -11418,6 +11418,2806 @@
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 656,
+      "country": "USA",
+      "state": "CONNECTICUT (CT)",
+      "branch": "CT - HARTFORD (extra lot)",
+      "city": "New Britain",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1345,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 657,
+      "country": "USA",
+      "state": "DELAWARE (DE)",
+      "branch": "DE - SEAFORD (extra lot)",
+      "city": "FRUITLAND",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1410,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "country": "USA",
+      "state": "ILLINOIS (IL)",
+      "branch": "IL - CHICAGO SOUTH (extra lot)",
+      "city": "Chicago Heights",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1680,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 659,
+      "country": "USA",
+      "state": "ILLINOIS (IL)",
+      "branch": "AMERICA'S AA ST. LOUIS IL: East St.",
+      "city": "East St. Louis",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1660,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 660,
+      "country": "USA",
+      "state": "ILLINOIS (IL)",
+      "branch": "St. Louis (extra lot)",
+      "city": "GRANITE CITY",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1715,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 661,
+      "country": "USA",
+      "state": "ILLINOIS (IL)",
+      "branch": "SOUTH CHICAGO AUTO AUCTION, IL",
+      "city": "Harvey",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1825,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 662,
+      "country": "USA",
+      "state": "ILLINOIS (IL)",
+      "branch": "AMERICA'S AA GREATER PEORIA NJ IL:",
+      "city": "Morton",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1825,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 663,
+      "country": "USA",
+      "state": "ILLINOIS (IL)",
+      "branch": "IL: Rockford, 61109",
+      "city": "Rockford",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1740,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 664,
+      "country": "USA",
+      "state": "INDIANA (IN)",
+      "branch": "IN - DYER (extra lot)",
+      "city": "Hammond",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1715,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 665,
+      "country": "USA",
+      "state": "INDIANA (IN)",
+      "branch": "America's Auto Auction Clark County IN",
+      "city": "Jeffersonville",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1635,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 666,
+      "country": "USA",
+      "state": "INDIANA (IN)",
+      "branch": "South Bend (extra lot)",
+      "city": "South Bend Sample St",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1715,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 667,
+      "country": "USA",
+      "state": "MASSACHUSETTS (MA)",
+      "branch": "Taunton (MA)",
+      "city": "East Taunton",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1390,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 668,
+      "country": "USA",
+      "state": "MASSACHUSETTS (MA)",
+      "branch": "MA - NORTH BOSTON (extra lot)",
+      "city": "Hudson",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1440,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 669,
+      "country": "USA",
+      "state": "MASSACHUSETTS (MA)",
+      "branch": "MA - SOUTH BOSTON",
+      "city": "South Boston",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1380,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 670,
+      "country": "USA",
+      "state": "MASSACHUSETTS (MA)",
+      "branch": "Templeton (extra lot)",
+      "city": "TEMPLETON",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1440,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 671,
+      "country": "USA",
+      "state": "MASSACHUSETTS (MA)",
+      "branch": "Taunton (extra lot)",
+      "city": "Uxbridge",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1440,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 672,
+      "country": "USA",
+      "state": "MASSACHUSETTS (MA)",
+      "branch": "MA - WEST WARREN",
+      "city": "West Warren",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1390,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 673,
+      "country": "USA",
+      "state": "MARYLAND (MD)",
+      "branch": "MD - BALTIMORE EAST",
+      "city": "BALTIMORE",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1365,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 674,
+      "country": "USA",
+      "state": "MARYLAND (MD)",
+      "branch": "MD - BALTIMORE EAST (extra lot)",
+      "city": "Laurel",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1375,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 675,
+      "country": "USA",
+      "state": "MARYLAND (MD)",
+      "branch": "MD - BALTIMORE EAST (extra lot)",
+      "city": "White Marsh",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1375,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 676,
+      "country": "USA",
+      "state": "MARYLAND (MD)",
+      "branch": "DC - WASHINGTON DC (extra lot)",
+      "city": "White Plains",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1375,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 677,
+      "country": "USA",
+      "state": "MICHIGAN (MI)",
+      "branch": "Clare Auto Auction, Inc.MI: Clare, 48617",
+      "city": "Clare",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 2040,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 678,
+      "country": "USA",
+      "state": "MICHIGAN (MI)",
+      "branch": "Detroit (extra lot)",
+      "city": "Detroit B & G",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1665,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 679,
+      "country": "USA",
+      "state": "MINNESOTA (MN)",
+      "branch": "MN - MINNEAPOLIS NORTH (extra lot)",
+      "city": "Elk River",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1765,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "country": "USA",
+      "state": "MINNESOTA (MN)",
+      "branch": "MN - MINNEAPOLIS (extra lot)",
+      "city": "Fridley",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1765,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 681,
+      "country": "USA",
+      "state": "MINNESOTA (MN)",
+      "branch": "MN - MINNEAPOLIS NORTH (extra lot)",
+      "city": "Ham Lake",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1680,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 682,
+      "country": "USA",
+      "state": "NEW HAMPSHIRE (NH)",
+      "branch": "AUTO AUCTION OF NEW ENGLAND NH:",
+      "city": "Londonderry",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1445,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "country": "USA",
+      "state": "NEW HAMPSHIRE (NH)",
+      "branch": "PERFECT AUTO LLC 111 BEECH",
+      "city": "Manchester",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1445,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 684,
+      "country": "USA",
+      "state": "NEW JERSEY (NJ)",
+      "branch": "NJ - TRENTON (extra lot)",
+      "city": "Chambersburg",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1410,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 685,
+      "country": "USA",
+      "state": "NEW JERSEY (NJ)",
+      "branch": "NJ - TRENTON (extra lot)",
+      "city": "Coopersburg",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1315,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 686,
+      "country": "USA",
+      "state": "NEW JERSEY (NJ)",
+      "branch": "NJ - TRENTON (extra lot)",
+      "city": "Coplay",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1315,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 687,
+      "country": "USA",
+      "state": "NEW JERSEY (NJ)",
+      "branch": "Englishtown (NJ)",
+      "city": "Englishtown",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1235,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 688,
+      "country": "USA",
+      "state": "NEW JERSEY (NJ)",
+      "branch": "NJ - GLASSBORO EAST",
+      "city": "Glassboro East",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1255,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 689,
+      "country": "USA",
+      "state": "NEW JERSEY (NJ)",
+      "branch": "NJ - GLASSBORO WEST",
+      "city": "Glassboro",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1255,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 690,
+      "country": "USA",
+      "state": "NEW JERSEY (NJ)",
+      "branch": "Jobstown Sublot",
+      "city": "Jobstown",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1255,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 691,
+      "country": "USA",
+      "state": "NEW JERSEY (NJ)",
+      "branch": "NJ - TRENTON (extra lot)",
+      "city": "Jobstown",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1250,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 692,
+      "country": "USA",
+      "state": "NEW JERSEY (NJ)",
+      "branch": "NJ - TRENTON (extra lot)",
+      "city": "White Plains",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1375,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 693,
+      "country": "USA",
+      "state": "NEW JERSEY (NJ)",
+      "branch": "NJ - SOMERVILLE (extra lot)",
+      "city": "York Haven",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1340,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 694,
+      "country": "USA",
+      "state": "NEW JERSEY (NJ)",
+      "branch": "NJ - TRENTON (extra lot)",
+      "city": "York Haven",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1340,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 695,
+      "country": "USA",
+      "state": "NEW YORK (NY)",
+      "branch": "NY - BUFFALO (extra lot)",
+      "city": "Alden",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1565,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 696,
+      "country": "USA",
+      "state": "NEW YORK (NY)",
+      "branch": "NY - ALBANY (extra lot)",
+      "city": "Amsterdam",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1410,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 697,
+      "country": "USA",
+      "state": "NEW YORK (NY)",
+      "branch": "Long Island (extra lot)",
+      "city": "CAT Long Island",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1295,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 698,
+      "country": "USA",
+      "state": "NEW YORK (NY)",
+      "branch": "Long Island (extra lot)",
+      "city": "East Yard",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1295,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 699,
+      "country": "USA",
+      "state": "NEW YORK (NY)",
+      "branch": "Newburgh (extra lot)",
+      "city": "Monticello",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1300,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 700,
+      "country": "USA",
+      "state": "NEW YORK (NY)",
+      "branch": "NY - NEWBURGH (extra lot)",
+      "city": "Newburgh",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1295,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 701,
+      "country": "USA",
+      "state": "NEW YORK (NY)",
+      "branch": "Long Island (extra lot)",
+      "city": "Rice Court Yard",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1295,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "country": "USA",
+      "state": "NEW YORK (NY)",
+      "branch": "NY - ROCHESTER",
+      "city": "Rochester",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1440,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 703,
+      "country": "USA",
+      "state": "NEW YORK (NY)",
+      "branch": "NY - NEWBURGH (extra lot)",
+      "city": "Staten Island",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1255,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 704,
+      "country": "USA",
+      "state": "NEW YORK (NY)",
+      "branch": "Long Island (extra lot)",
+      "city": "STATEN ISLAND",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1265,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 705,
+      "country": "USA",
+      "state": "OHIO (OH)",
+      "branch": "AKRON AUTO AUCTION",
+      "city": "Akron",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1660,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 706,
+      "country": "USA",
+      "state": "OHIO (OH)",
+      "branch": "OH: Cincinnati, 45216",
+      "city": "Cincinnati",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1605,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 707,
+      "country": "USA",
+      "state": "OHIO (OH)",
+      "branch": "AMERICA'S AA COLUMBUS FAIR OH:",
+      "city": "Columbus",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1500,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 708,
+      "country": "USA",
+      "state": "OHIO (OH)",
+      "branch": "Columbus (OH)",
+      "city": "Columbus",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1590,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 709,
+      "country": "USA",
+      "state": "OHIO (OH)",
+      "branch": "Columbus (extra lot)",
+      "city": "Grove City Stimmel Road",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1665,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 710,
+      "country": "USA",
+      "state": "OHIO (OH)",
+      "branch": "Cleveland (extra lot)",
+      "city": "Lorain",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1650,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 711,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "PA - PITTSBURGH WEST (extra lot)",
+      "city": "Adamsburg",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1565,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 712,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "PA - PHILADELPHIA EAST-SUBLOT",
+      "city": "Chalfont",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1300,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 713,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "Garden Spot Auto Auction Ephrata, PA",
+      "city": "Ephrata",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1290,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 714,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "Greater Erie Auto Auction PA:",
+      "city": "Fairview",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1555,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 715,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "York Springs (PA)",
+      "city": "Latimore Township",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1330,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 716,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "PA - PHILADELPHIA EAST (extra lot)",
+      "city": "Malvern",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1345,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 717,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "AMERICA'S AA HARRISBURG PA:",
+      "city": "Mechanicsburg",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1315,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 718,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "Central Pennsylvania PA Mill Hall, 17751",
+      "city": "Mill Hall",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1445,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 719,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "PA - PHILADELPHIA",
+      "city": "Philadelphia",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1300,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 720,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "PA - PITTSBURGH NORTH",
+      "city": "Pittsburgh",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1505,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 721,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "PA - PITTSBURGH WEST",
+      "city": "Pittsburgh",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1505,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 722,
+      "country": "USA",
+      "state": "PENNSYLVANIA (PA)",
+      "branch": "NOrth East pennsylvania",
+      "city": "Scranton",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1290,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 723,
+      "country": "USA",
+      "state": "VIRGINIA (VA)",
+      "branch": "AMERICA'S A? VIRGINIA VA: Virginia",
+      "city": "Virginia Beach",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1445,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 724,
+      "country": "USA",
+      "state": "WISCONSIN (WI)",
+      "branch": "WI - MILWAUKEE SOUTH (extra lot)",
+      "city": "Cudahy",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1665,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 725,
+      "country": "USA",
+      "state": "WEST VIRGINIA (WV)",
+      "branch": "Shady Spring (WV)",
+      "city": "Shady Spring",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1590,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 726,
+      "country": "USA",
+      "state": "WEST VIRGINIA (WV)",
+      "branch": "Mountain state auto auction WV",
+      "city": "Shinnston",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1605,
+          "shipping_to_uae": null,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 727,
+      "country": "USA",
+      "state": "ALABAMA (AL)",
+      "branch": "AL - BIRMINGHAM (extra lot)",
+      "city": "Birmingham",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1440,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 728,
+      "country": "USA",
+      "state": "ALABAMA (AL)",
+      "branch": "AL - MOBILE",
+      "city": "Eight Mile",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1475,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 729,
+      "country": "USA",
+      "state": "ALABAMA (AL)",
+      "branch": "Dealers Auto Auction of Mobile",
+      "city": "Mobile",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1435,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 730,
+      "country": "USA",
+      "state": "ALABAMA (AL)",
+      "branch": "Auto Auction of Montgomery LLC",
+      "city": "Montgomery",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1380,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 731,
+      "country": "USA",
+      "state": "ALABAMA (AL)",
+      "branch": ". 804 Sollie Dr Moody, AL 35004",
+      "city": "Moody",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1350,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 732,
+      "country": "USA",
+      "state": "ALABAMA (AL)",
+      "branch": "AMERICA'S AA BIRMINGHAM AL:",
+      "city": "Moody",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1355,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 733,
+      "country": "USA",
+      "state": "ALABAMA (AL)",
+      "branch": "AL - DOTHAN",
+      "city": "Newton",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1475,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 734,
+      "country": "USA",
+      "state": "FLORIDA (FL)",
+      "branch": "Miami-North (extra lot)",
+      "city": "Fort Lauderdale",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1375,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 735,
+      "country": "USA",
+      "state": "FLORIDA (FL)",
+      "branch": "FL - FT. PIERCE",
+      "city": "FT PIERCE",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1440,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 736,
+      "country": "USA",
+      "state": "FLORIDA (FL)",
+      "branch": "INTERNATIONAL AUTO BROKER 1108",
+      "city": "Hollywood",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1325,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 737,
+      "country": "USA",
+      "state": "FLORIDA (FL)",
+      "branch": "America’s Auto Auction Jacksonville",
+      "city": "Jacksonville",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1165,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 738,
+      "country": "USA",
+      "state": "FLORIDA (FL)",
+      "branch": "SOUTH FLORIDA AUTO AUCTION FL:",
+      "city": "Lauderdale",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1570,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 739,
+      "country": "USA",
+      "state": "FLORIDA (FL)",
+      "branch": "AutoNation Auto Aucton FL:",
+      "city": "Longwood",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1325,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 740,
+      "country": "USA",
+      "state": "FLORIDA (FL)",
+      "branch": "Orlando Longwood Auto Auction",
+      "city": "Longwood",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1275,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 741,
+      "country": "USA",
+      "state": "FLORIDA (FL)",
+      "branch": "FL - TAMPA SOUTH (extra lot)",
+      "city": "Mulberry",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1345,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 742,
+      "country": "USA",
+      "state": "FLORIDA (FL)",
+      "branch": "POMPANO BEACH, FL",
+      "city": "Pompano",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1275,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 743,
+      "country": "USA",
+      "state": "FLORIDA (FL)",
+      "branch": "FL - TAMPA SOUTH (extra lot)",
+      "city": "Thonotosassa",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1330,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 744,
+      "country": "USA",
+      "state": "GEORGIA (GA)",
+      "branch": "The New Calhoun Auto Auction",
+      "city": "Calhoun",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1490,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 745,
+      "country": "USA",
+      "state": "GEORGIA (GA)",
+      "branch": "GEORGIA-CAROLINA AUTO AUCTION",
+      "city": "Commerce",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1385,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "country": "USA",
+      "state": "GEORGIA (GA)",
+      "branch": "America’s Auto Auction Savannah",
+      "city": "Savannah",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1115,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 747,
+      "country": "USA",
+      "state": "LOUISIANA (LA)",
+      "branch": "LA - VINTON",
+      "city": "Vinton",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1345,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 748,
+      "country": "USA",
+      "state": "MISSOURI (MO)",
+      "branch": "Missouri Auto Auction Inc MO:",
+      "city": "Columbia",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1595,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 749,
+      "country": "USA",
+      "state": "NORTH CAROLINA (NC)",
+      "branch": "SPEEDWAY AUTO AUCTION NC:",
+      "city": "Concord",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1250,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 750,
+      "country": "USA",
+      "state": "NORTH CAROLINA (NC)",
+      "branch": "Greenville Auto Auction NC: Greenville,",
+      "city": "Greenville",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1570,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 751,
+      "country": "USA",
+      "state": "NORTH CAROLINA (NC)",
+      "branch": "NC - MEBANE (extra lot)",
+      "city": "Mebane Sublot",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1345,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 752,
+      "country": "USA",
+      "state": "SOUTH CAROLINA (SC)",
+      "branch": "GRAND STRAND AUTO AUCTION SC:",
+      "city": "Conway",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1325,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 753,
+      "country": "USA",
+      "state": "SOUTH CAROLINA (SC)",
+      "branch": "SC - COLUMBIA (extra lot)",
+      "city": "Gaston SHA LIU",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1190,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 754,
+      "country": "USA",
+      "state": "SOUTH CAROLINA (SC)",
+      "branch": "Rawls Auto Auction SC: Leesville,",
+      "city": "Leesville",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1225,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 755,
+      "country": "USA",
+      "state": "SOUTH CAROLINA (SC)",
+      "branch": "AMERICA'S AA CHARLESTON GA SC:",
+      "city": "Moncks Corner",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1225,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 756,
+      "country": "USA",
+      "state": "SOUTH CAROLINA (SC)",
+      "branch": "CAROLINA Auto Auction Inc SC:",
+      "city": "Williamston",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1275,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 757,
+      "country": "USA",
+      "state": "TENNESSEE (TN)",
+      "branch": "Dealora Auto Auoton of Chattanooga",
+      "city": "Chattanooga",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1435,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 758,
+      "country": "USA",
+      "state": "TENNESSEE (TN)",
+      "branch": "Thoroughbred Auto Auction -",
+      "city": "Clarksville",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1625,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 759,
+      "country": "USA",
+      "state": "TENNESSEE (TN)",
+      "branch": "Dealer's Auto Auction of Memphis TN:",
+      "city": "Memphis",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1435,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 760,
+      "country": "USA",
+      "state": "TENNESSEE (TN)",
+      "branch": "Memphis 11713",
+      "city": "Memphis",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1490,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 761,
+      "country": "USA",
+      "state": "TENNESSEE (TN)",
+      "branch": "UNITED AUTO EXCHANGE TN:",
+      "city": "Memphis",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1435,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 762,
+      "country": "USA",
+      "state": "TENNESSEE (TN)",
+      "branch": "MUSIC CITY AUTO AUCTION TN Spring",
+      "city": "Spring Hill",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "shipping_to_tr": 1540,
+          "shipping_to_uae": null,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 763,
+      "country": "USA",
+      "state": "ARKANSAS (AR)",
+      "branch": "Dealers Auto Auction of Little Rock",
+      "city": "Little Rock",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1630,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 764,
+      "country": "USA",
+      "state": "ARKANSAS (AR)",
+      "branch": "71B AUTO AUCTION AR: Springdale,",
+      "city": "Springdale",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1635,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 765,
+      "country": "USA",
+      "state": "COLORADO (CO)",
+      "branch": "DEALERS AUTO AUCTION OF THE",
+      "city": "Denver",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1770,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 766,
+      "country": "USA",
+      "state": "KANSAS (KS)",
+      "branch": "KS - KANSAS CITY (extra lot)",
+      "city": "SUBLOT A",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1770,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 767,
+      "country": "USA",
+      "state": "KANSAS (KS)",
+      "branch": "KS - KANSAS CITY (extra lot)",
+      "city": "SUBLOT B",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1770,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 768,
+      "country": "USA",
+      "state": "KANSAS (KS)",
+      "branch": "I-70 AUTO AUCTION KS: Topeka, 66604",
+      "city": "Topeka",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 2040,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 769,
+      "country": "USA",
+      "state": "LOUISIANA (LA)",
+      "branch": "Oak View Auto Auction LA TX LA:",
+      "city": "Baton Rouge",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1395,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 770,
+      "country": "USA",
+      "state": "LOUISIANA (LA)",
+      "branch": "AMERICA'S AA 2.LAKE CHARLES",
+      "city": "Lake Charles",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1395,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 771,
+      "country": "USA",
+      "state": "LOUISIANA (LA)",
+      "branch": "AMERICA'S A? NORTHERN shreveport",
+      "city": "Shreveport",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1395,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 772,
+      "country": "USA",
+      "state": "MISSOURI (MO)",
+      "branch": "MO - ST. LOUIS (extra lot)",
+      "city": "Dunn",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1770,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 773,
+      "country": "USA",
+      "state": "MISSOURI (MO)",
+      "branch": "166 AUTO AUCTION MO: Springfield,",
+      "city": "Springfield",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1715,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 774,
+      "country": "USA",
+      "state": "MISSOURI (MO)",
+      "branch": "MO - SPRINGFIELD (extra lot)",
+      "city": "Springfield",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1745,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 775,
+      "country": "USA",
+      "state": "MISSOURI (MO)",
+      "branch": "Springfield (MO)",
+      "city": "Springfield",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1695,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 776,
+      "country": "USA",
+      "state": "MISSISSIPPI (MS)",
+      "branch": "Dixie Auto Auction",
+      "city": "Holcomb",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1555,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 777,
+      "country": "USA",
+      "state": "MISSISSIPPI (MS)",
+      "branch": "Dealers Auto Auction of Jackson",
+      "city": "Pearl /",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1500,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 778,
+      "country": "USA",
+      "state": "OKLAHOMA (OK)",
+      "branch": "america's auto auction oklahoma",
+      "city": "Oklahoma City",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1610,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 779,
+      "country": "USA",
+      "state": "OKLAHOMA (OK)",
+      "branch": "Dealers Auto Auction of OCK",
+      "city": "Oklahoma City",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1500,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 780,
+      "country": "USA",
+      "state": "OKLAHOMA (OK)",
+      "branch": "OK - OKLAHOMA CITY (extra lot)",
+      "city": "Oklahoma city Moore Sublot",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1620,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 781,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "AMERICA'S A? AUSTIN",
+      "city": "Austin",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1395,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 782,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "America's AA Austin TX",
+      "city": "Buda / Austin",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1370,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 783,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "CarMax TX Conroe",
+      "city": "Conroe",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1320,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 784,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "ALLIANCE AUTO AUCTION - DALLAS",
+      "city": "Dallas",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1370,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 785,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "BIG VALLEY AUTO AUCTION",
+      "city": "Donna",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1370,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 786,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "Ft Worth (TX)",
+      "city": "Grand Prairie",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1395,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 787,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "Abilene (TX)",
+      "city": "Hawley",
+      "source": "IAAI",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1495,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 788,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "AMERICA'S AA Dallas TX: Irving, 75061",
+      "city": "Irving",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1345,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 789,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "Metro Auto Auction of Dallas TX:",
+      "city": "Lewisville",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1395,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 790,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "AMERICA'S AA San Antonio",
+      "city": "Live Oak",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1415,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 791,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "AMERICA'S AA LONE STAR LUBBOCK",
+      "city": "Lubbock",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1610,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 792,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "TX - LUFKIN",
+      "city": "Lufkin",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1470,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 793,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "AMERICA'S A? AMERICA GROUP SAN",
+      "city": "San Antonio",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1370,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 794,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "VICTORIA AUTO AUCTION TX: Victoria,",
+      "city": "Victoria",
+      "source": "OTHER",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1395,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "avill": "true"
+        }
+      ]
+    },
+    {
+      "id": 795,
+      "country": "USA",
+      "state": "TEXAS (TX)",
+      "branch": "TX - DALLAS SOUTH",
+      "city": "WILMER",
+      "source": "COPART",
+      "lat": null,
+      "lng": null,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "shipping_to_tr": 1400,
+          "shipping_to_uae": null,
+          "lat": 29.7604,
+          "lng": -95.3698,
           "avill": "true"
         }
       ]
