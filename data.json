@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "price_usd": 64.5,
   "shipping_rates_to_herat": {
     "tr": 1775,
@@ -5276,7 +5276,7 @@
         },
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2870,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6304,7 +6304,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 1895,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3110,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6324,7 +6324,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2095,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6344,7 +6344,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 1895,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6372,7 +6372,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2105,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6392,7 +6392,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2275,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3515,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6412,7 +6412,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2525,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3470,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6432,7 +6432,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2475,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3670,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6452,7 +6452,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 1985,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6472,7 +6472,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2275,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3495,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6492,7 +6492,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 1970,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6512,7 +6512,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2275,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3470,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6532,7 +6532,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2275,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3445,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6552,7 +6552,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2375,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3545,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6572,7 +6572,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2525,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3670,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6592,7 +6592,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2285,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3505,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6612,7 +6612,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2525,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3695,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6632,7 +6632,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2300,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3445,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6652,7 +6652,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2350,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3515,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6672,7 +6672,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2285,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3470,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6692,7 +6692,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2285,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3470,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6712,7 +6712,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2285,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3505,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6732,7 +6732,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2350,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3580,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6752,7 +6752,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2325,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3555,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6772,7 +6772,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2045,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3515,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6792,7 +6792,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2335,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3470,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6812,7 +6812,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2220,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3735,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6832,7 +6832,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2375,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3540,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6852,7 +6852,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2070,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6872,7 +6872,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2325,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3485,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6892,7 +6892,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2365,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3535,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6912,7 +6912,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2325,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3495,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6932,7 +6932,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2190,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6952,7 +6952,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2285,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3465,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6972,7 +6972,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2275,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3470,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -6992,7 +6992,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2465,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3650,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7012,7 +7012,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2265,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3445,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7032,7 +7032,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3845,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7052,7 +7052,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2480,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3670,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7072,7 +7072,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2275,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3445,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7092,7 +7092,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2475,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3670,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7112,7 +7112,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2475,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3670,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7132,7 +7132,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2475,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3645,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7152,7 +7152,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2400,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3565,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7172,7 +7172,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2475,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3645,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7192,7 +7192,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2475,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3645,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7212,7 +7212,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2575,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3705,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7232,7 +7232,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2475,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3670,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7252,7 +7252,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2335,
+          "shipping_to_tr": null,
           "shipping_to_uae": 2960,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7272,7 +7272,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2365,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7292,7 +7292,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2375,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7312,7 +7312,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2770,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4420,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7332,7 +7332,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 3075,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4420,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7352,7 +7352,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 3075,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4420,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7372,7 +7372,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2425,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3595,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7392,7 +7392,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2425,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3595,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7412,7 +7412,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2425,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3595,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7432,7 +7432,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2120,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3595,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7452,7 +7452,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2575,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3770,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7472,7 +7472,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2120,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3595,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7492,7 +7492,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3770,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7512,7 +7512,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 1695,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7540,7 +7540,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3895,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7560,7 +7560,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2290,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7580,7 +7580,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3895,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7600,7 +7600,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3895,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7620,7 +7620,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3975,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7640,7 +7640,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2525,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3720,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7660,7 +7660,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2535,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3720,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7680,7 +7680,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2265,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7700,7 +7700,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2525,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3720,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7720,7 +7720,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2535,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3720,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7740,7 +7740,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2535,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3720,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7760,7 +7760,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2575,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3745,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7780,7 +7780,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4070,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7800,7 +7800,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4070,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7820,7 +7820,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 3025,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4195,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7840,7 +7840,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 3325,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4395,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7860,7 +7860,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4095,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7880,7 +7880,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2465,
+          "shipping_to_tr": null,
           "shipping_to_uae": 2620,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7900,7 +7900,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4095,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7920,7 +7920,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2715,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3940,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7940,7 +7940,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2520,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7960,7 +7960,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 3195,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -7980,7 +7980,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 3500,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4445,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -8000,7 +8000,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 3500,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -8168,7 +8168,7 @@
         },
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2335,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -8196,7 +8196,7 @@
         },
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2420,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -8224,7 +8224,7 @@
         },
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2335,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -8252,7 +8252,7 @@
         },
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2335,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -8280,7 +8280,7 @@
         },
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2520,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -8588,7 +8588,7 @@
         },
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2320,
+          "shipping_to_tr": null,
           "shipping_to_uae": null,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -9728,7 +9728,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 1895,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3110,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -9988,7 +9988,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3975,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -10008,7 +10008,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2725,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3895,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -10028,7 +10028,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 3500,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4445,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -10048,7 +10048,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 3025,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4195,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -10068,7 +10068,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2325,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3555,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -10088,7 +10088,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2475,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3845,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -10108,7 +10108,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2255,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3645,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -11374,7 +11374,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2705,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3875,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -11394,7 +11394,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2705,
+          "shipping_to_tr": null,
           "shipping_to_uae": 3870,
           "lat": 33.7701,
           "lng": -118.1937,
@@ -11414,7 +11414,7 @@
       "ports": [
         {
           "name": "CALIFORNIA, USA",
-          "shipping_to_tr": 2770,
+          "shipping_to_tr": null,
           "shipping_to_uae": 4420,
           "lat": 33.7701,
           "lng": -118.1937,
