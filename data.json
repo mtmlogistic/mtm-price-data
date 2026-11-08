@@ -11403,6 +11403,1367 @@
         }
       ]
     },
+      {
+    "id": 656,
+    "country": "USA",
+    "state": "DELAWARE (DE)",
+    "branch": "DE - SEAFORD (extra lot)",
+    "city": "FRUITLAND",
+    "source": "COPART",
+    "lat": 38.63035026251823,
+    "lng": -75.56446402883616,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1460,
+        "shipping_to_uae": 2690,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 657,
+    "country": "USA",
+    "state": "INDIANA (IN)",
+    "branch": "IN - DYER (extra lot)",
+    "city": "Hammond",
+    "source": "COPART",
+    "lat": 41.49581945624125,
+    "lng": -87.51254280370603,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1765,
+        "shipping_to_uae": 2995,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "country": "USA",
+    "state": "MASSACHUSETTS (MA)",
+    "branch": "Taunton (MA)",
+    "city": "East Taunton",
+    "source": "IAAI",
+    "lat": 41.849710340601234,
+    "lng": -70.9927108,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1440,
+        "shipping_to_uae": 2670,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 659,
+    "country": "USA",
+    "state": "MASSACHUSETTS (MA)",
+    "branch": "MA - NORTH BOSTON (extra lot)",
+    "city": "Hudson",
+    "source": "COPART",
+    "lat": 42.58046110024456,
+    "lng": -71.2712769,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1490,
+        "shipping_to_uae": 2720,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 661,
+    "country": "USA",
+    "state": "MASSACHUSETTS (MA)",
+    "branch": "Taunton (extra lot)",
+    "city": "Uxbridge",
+    "source": "IAAI",
+    "lat": 41.849710340601234,
+    "lng": -70.99278590185301,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1490,
+        "shipping_to_uae": 2720,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "country": "USA",
+    "state": "MASSACHUSETTS (MA)",
+    "branch": "MA - WEST WARREN",
+    "city": "West Warren",
+    "source": "COPART",
+    "lat": 42.21705958330708,
+    "lng": -72.23051577116385,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1440,
+        "shipping_to_uae": 2670,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "country": "USA",
+    "state": "MARYLAND (MD)",
+    "branch": "MD - BALTIMORE EAST",
+    "city": "BALTIMORE",
+    "source": "COPART",
+    "lat": 39.240292900000014,
+    "lng": -76.6266727,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1415,
+        "shipping_to_uae": 2645,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "country": "USA",
+    "state": "MARYLAND (MD)",
+    "branch": "MD - BALTIMORE EAST (extra lot)",
+    "city": "Laurel",
+    "source": "COPART",
+    "lat": 39.24032613791816,
+    "lng": -76.62670488650843,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1425,
+        "shipping_to_uae": 2655,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 665,
+    "country": "USA",
+    "state": "MARYLAND (MD)",
+    "branch": "MD - BALTIMORE EAST (extra lot)",
+    "city": "White Marsh",
+    "source": "COPART",
+    "lat": 39.240475708354914,
+    "lng": -76.62686581905061,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1425,
+        "shipping_to_uae": 2655,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 666,
+    "country": "USA",
+    "state": "DISTRICT OF COLUMBIA (DC)",
+    "branch": "DC - WASHINGTON DC (extra lot)",
+    "city": "White Plains",
+    "source": "COPART",
+    "lat": 38.58916616483995,
+    "lng": -76.93236251719757,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1425,
+        "shipping_to_uae": 2655,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 667,
+    "country": "USA",
+    "state": "MINNESOTA (MN)",
+    "branch": "MN - MINNEAPOLIS NORTH (extra lot)",
+    "city": "Elk River",
+    "source": "COPART",
+    "lat": 45.25966449605585,
+    "lng": -93.51264482883614,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1815,
+        "shipping_to_uae": 3045,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "country": "USA",
+    "state": "MINNESOTA (MN)",
+    "branch": "MN - MINNEAPOLIS (extra lot)",
+    "city": "Fridley",
+    "source": "COPART",
+    "lat": 45.03831920124577,
+    "lng": -93.27459919748914,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1815,
+        "shipping_to_uae": 3045,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 669,
+    "country": "USA",
+    "state": "PENNSYLVANIA (PA)",
+    "branch": "NJ - TRENTON (extra lot)",
+    "city": "Coopersburg",
+    "source": "COPART",
+    "lat": 40.250285568649815,
+    "lng": -74.57483983068916,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1365,
+        "shipping_to_uae": 2595,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "country": "USA",
+    "state": "PENNSYLVANIA (PA)",
+    "branch": "NJ - TRENTON (extra lot)",
+    "city": "Coplay",
+    "source": "COPART",
+    "lat": 40.25010542006071,
+    "lng": -74.5752582552988,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1365,
+        "shipping_to_uae": 2595,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "country": "USA",
+    "state": "NEW JERSEY (NJ)",
+    "branch": "Englishtown (NJ)",
+    "city": "Englishtown",
+    "source": "IAAI",
+    "lat": 40.33318384376002,
+    "lng": -74.34943013068916,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1285,
+        "shipping_to_uae": 2515,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "country": "USA",
+    "state": "NEW JERSEY (NJ)",
+    "branch": "NJ - GLASSBORO EAST",
+    "city": "Glassboro East",
+    "source": "COPART",
+    "lat": 39.69646485167541,
+    "lng": -75.1066398,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1305,
+        "shipping_to_uae": 2535,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 673,
+    "country": "USA",
+    "state": "NEW JERSEY (NJ)",
+    "branch": "NJ - GLASSBORO WEST",
+    "city": "Glassboro West",
+    "source": "COPART",
+    "lat": 39.68900726356037,
+    "lng": -75.1319196828024,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1305,
+        "shipping_to_uae": 2535,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 674,
+    "country": "USA",
+    "state": "NEW JERSEY (NJ)",
+    "branch": "Jobstown Sublot",
+    "city": "Jobstown",
+    "source": "COPART",
+    "lat": 40.058169100000015,
+    "lng": -74.64920591349156,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1305,
+        "shipping_to_uae": 2535,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "country": "USA",
+    "state": "NEW JERSEY (NJ)",
+    "branch": "NJ - TRENTON (extra lot)",
+    "city": "Jobstown",
+    "source": "COPART",
+    "lat": 40.25029375721066,
+    "lng": -74.57477545767229,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1300,
+        "shipping_to_uae": 2530,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "country": "USA",
+    "state": "NEW JERSEY (NJ)",
+    "branch": "NJ - TRENTON (extra lot)",
+    "city": "White Plains",
+    "source": "COPART",
+    "lat": 40.052584622383854,
+    "lng": -74.13655177551767,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1425,
+        "shipping_to_uae": 2655,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "country": "USA",
+    "state": "NEW YORK (NY)",
+    "branch": "NY - BUFFALO (extra lot)",
+    "city": "Alden",
+    "source": "COPART",
+    "lat": 42.92678701183639,
+    "lng": -78.57675213543614,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1615,
+        "shipping_to_uae": 2845,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "country": "USA",
+    "state": "NEW YORK (NY)",
+    "branch": "NY - ALBANY (extra lot)",
+    "city": "Amsterdam",
+    "source": "COPART",
+    "lat": 42.735336195773286,
+    "lng": -73.85432222883614,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1460,
+        "shipping_to_uae": 2690,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "country": "USA",
+    "state": "NEW YORK (NY)",
+    "branch": "Long Island (extra lot)",
+    "city": "CAT Long Island",
+    "source": "IAAI",
+    "lat": 40.81677798037803,
+    "lng": -72.97358226745783,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1345,
+        "shipping_to_uae": 2575,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "country": "USA",
+    "state": "NEW YORK (NY)",
+    "branch": "Long Island (extra lot)",
+    "city": "East Yard",
+    "source": "IAAI",
+    "lat": 40.81702968819704,
+    "lng": -72.97350716560481,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1345,
+        "shipping_to_uae": 2575,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "country": "USA",
+    "state": "NEW YORK (NY)",
+    "branch": "NY - NEWBURGH (extra lot)",
+    "city": "Newburgh",
+    "source": "COPART",
+    "lat": 41.566918247596654,
+    "lng": -73.90658411719758,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1345,
+        "shipping_to_uae": 2575,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 682,
+    "country": "USA",
+    "state": "NEW YORK (NY)",
+    "branch": "Long Island (extra lot)",
+    "city": "Rice Court Yard",
+    "source": "IAAI",
+    "lat": 40.81641654972179,
+    "lng": -72.97362881534458,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1345,
+        "shipping_to_uae": 2575,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 683,
+    "country": "USA",
+    "state": "NEW YORK (NY)",
+    "branch": "NY - ROCHESTER",
+    "city": "Rochester",
+    "source": "COPART",
+    "lat": 43.1566,
+    "lng": -77.6088,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1490,
+        "shipping_to_uae": 2720,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 684,
+    "country": "USA",
+    "state": "NEW YORK (NY)",
+    "branch": "NY - NEWBURGH (extra lot)",
+    "city": "Staten Island",
+    "source": "COPART",
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1305,
+        "shipping_to_uae": 2535,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 685,
+    "country": "USA",
+    "state": "NEW YORK (NY)",
+    "branch": "Long Island (extra lot)",
+    "city": "STATEN ISLAND",
+    "source": "IAAI",
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1315,
+        "shipping_to_uae": 2545,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 686,
+    "country": "USA",
+    "state": "OHIO (OH)",
+    "branch": "Columbus (OH)",
+    "city": "Columbus",
+    "source": "IAAI",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1640,
+        "shipping_to_uae": 2870,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 687,
+    "country": "USA",
+    "state": "PENNSYLVANIA (PA)",
+    "branch": "PA - PITTSBURGH WEST (extra lot)",
+    "city": "Adamsburg",
+    "source": "COPART",
+    "lat": 40.3151,
+    "lng": -79.6531,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1615,
+        "shipping_to_uae": 2845,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "country": "USA",
+    "state": "PENNSYLVANIA (PA)",
+    "branch": "York Springs (PA)",
+    "city": "Latimore",
+    "source": "IAAI",
+    "lat": 40.0065,
+    "lng": -77.1158,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1380,
+        "shipping_to_uae": 2610,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 689,
+    "country": "USA",
+    "state": "PENNSYLVANIA (PA)",
+    "branch": "PA - PHILADELPHIA EAST (extra lot)",
+    "city": "Malvern",
+    "source": "COPART",
+    "lat": 40.0362,
+    "lng": -75.5139,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1395,
+        "shipping_to_uae": 2625,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 690,
+    "country": "USA",
+    "state": "PENNSYLVANIA (PA)",
+    "branch": "PA - PHILADELPHIA",
+    "city": "Philadelphia",
+    "source": "COPART",
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1350,
+        "shipping_to_uae": 2580,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 691,
+    "country": "USA",
+    "state": "PENNSYLVANIA (PA)",
+    "branch": "PA - PITTSBURGH NORTH",
+    "city": "Pittsburgh North",
+    "source": "COPART",
+    "lat": 40.4406,
+    "lng": -79.9959,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1555,
+        "shipping_to_uae": 2785,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 692,
+    "country": "USA",
+    "state": "PENNSYLVANIA (PA)",
+    "branch": "PA - PITTSBURGH WEST",
+    "city": "Pittsburgh West",
+    "source": "COPART",
+    "lat": 40.4406,
+    "lng": -79.9959,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1555,
+        "shipping_to_uae": 2785,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "country": "USA",
+    "state": "ALABAMA (AL)",
+    "branch": "AL - BIRMINGHAM (extra lot)",
+    "city": "Birmingham",
+    "source": "COPART",
+    "lat": 33.5186,
+    "lng": -86.8104,
+    "ports": [
+      {
+        "name": "GEORGIA, USA",
+        "shipping_to_tr": 1490,
+        "shipping_to_uae": 2720,
+        "lat": 32.0762,
+        "lng": -81.0884,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 694,
+    "country": "USA",
+    "state": "ALABAMA (AL)",
+    "branch": "AL - MOBILE",
+    "city": "Eight Mile",
+    "source": "COPART",
+    "lat": 30.7669,
+    "lng": -88.1797,
+    "ports": [
+      {
+        "name": "GEORGIA, USA",
+        "shipping_to_tr": 1525,
+        "shipping_to_uae": 2755,
+        "lat": 32.0762,
+        "lng": -81.0884,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 695,
+    "country": "USA",
+    "state": "FLORIDA (FL)",
+    "branch": "Miami-North (extra lot)",
+    "city": "Fort Lauderdale",
+    "source": "IAAI",
+    "lat": 26.1224,
+    "lng": -80.1373,
+    "ports": [
+      {
+        "name": "GEORGIA, USA",
+        "shipping_to_tr": 1425,
+        "shipping_to_uae": 2655,
+        "lat": 32.0762,
+        "lng": -81.0884,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 696,
+    "country": "USA",
+    "state": "FLORIDA (FL)",
+    "branch": "FL - FT. PIERCE",
+    "city": "FT PIERCE",
+    "source": "COPART",
+    "lat": 27.4467,
+    "lng": -80.3256,
+    "ports": [
+      {
+        "name": "GEORGIA, USA",
+        "shipping_to_tr": 1490,
+        "shipping_to_uae": 2720,
+        "lat": 32.0762,
+        "lng": -81.0884,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 697,
+    "country": "USA",
+    "state": "FLORIDA (FL)",
+    "branch": "FL - TAMPA SOUTH (extra lot)",
+    "city": "Mulberry",
+    "source": "COPART",
+    "lat": 27.8953,
+    "lng": -81.9734,
+    "ports": [
+      {
+        "name": "GEORGIA, USA",
+        "shipping_to_tr": 1395,
+        "shipping_to_uae": 2625,
+        "lat": 32.0762,
+        "lng": -81.0884,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 698,
+    "country": "USA",
+    "state": "LOUISIANA (LA)",
+    "branch": "LA - VINTON",
+    "city": "Vinton",
+    "source": "COPART",
+    "lat": 30.1908,
+    "lng": -93.5813,
+    "ports": [
+      {
+        "name": "GEORGIA, USA",
+        "shipping_to_tr": 1395,
+        "shipping_to_uae": 2625,
+        "lat": 32.0762,
+        "lng": -81.0884,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "country": "USA",
+    "state": "NORTH CAROLINA (NC)",
+    "branch": "NC - MEBANE (extra lot)",
+    "city": "Mebane Sublot 2",
+    "source": "COPART",
+    "lat": 36.0959,
+    "lng": -79.2669,
+    "ports": [
+      {
+        "name": "GEORGIA, USA",
+        "shipping_to_tr": 1395,
+        "shipping_to_uae": 2625,
+        "lat": 32.0762,
+        "lng": -81.0884,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "country": "USA",
+    "state": "SOUTH CAROLINA (SC)",
+    "branch": "SC - COLUMBIA (extra lot)",
+    "city": "Gaston SHA LIU",
+    "source": "COPART",
+    "lat": 33.8179,
+    "lng": -81.1009,
+    "ports": [
+      {
+        "name": "GEORGIA, USA",
+        "shipping_to_tr": 1240,
+        "shipping_to_uae": 2470,
+        "lat": 32.0762,
+        "lng": -81.0884,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 701,
+    "country": "USA",
+    "state": "KANSAS (KS)",
+    "branch": "KS - KANSAS CITY (extra lot)",
+    "city": "SUBLOT A",
+    "source": "COPART",
+    "lat": 39.1142,
+    "lng": -94.6275,
+    "ports": [
+      {
+        "name": "TEXAS, USA",
+        "shipping_to_tr": 1820,
+        "shipping_to_uae": 2985,
+        "lat": 29.7604,
+        "lng": -95.3698,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 702,
+    "country": "USA",
+    "state": "KANSAS (KS)",
+    "branch": "KS - KANSAS CITY (extra lot)",
+    "city": "SUBLOT B",
+    "source": "COPART",
+    "lat": 39.1142,
+    "lng": -94.6275,
+    "ports": [
+      {
+        "name": "TEXAS, USA",
+        "shipping_to_tr": 1820,
+        "shipping_to_uae": 2985,
+        "lat": 29.7604,
+        "lng": -95.3698,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 703,
+    "country": "USA",
+    "state": "TEXAS (TX)",
+    "branch": "Ft Worth (TX)",
+    "city": "Grand Prairie",
+    "source": "IAAI",
+    "lat": 32.75044444,
+    "lng": -96.94152778,
+    "ports": [
+      {
+        "name": "TEXAS, USA",
+        "shipping_to_tr": 1445,
+        "shipping_to_uae": 2610,
+        "lat": 29.7604,
+        "lng": -95.3698,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 704,
+    "country": "USA",
+    "state": "TEXAS (TX)",
+    "branch": "Abilene (TX)",
+    "city": "Hawley",
+    "source": "IAAI",
+    "lat": 32.6126,
+    "lng": -99.8104,
+    "ports": [
+      {
+        "name": "TEXAS, USA",
+        "shipping_to_tr": 1545,
+        "shipping_to_uae": 2710,
+        "lat": 29.7604,
+        "lng": -95.3698,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 705,
+    "country": "USA",
+    "state": "TEXAS (TX)",
+    "branch": "TX - LUFKIN",
+    "city": "Lufkin",
+    "source": "COPART",
+    "lat": 31.3382,
+    "lng": -94.7291,
+    "ports": [
+      {
+        "name": "TEXAS, USA",
+        "shipping_to_tr": 1520,
+        "shipping_to_uae": 2685,
+        "lat": 29.7604,
+        "lng": -95.3698,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "country": "USA",
+    "state": "TEXAS (TX)",
+    "branch": "TX - DALLAS SOUTH",
+    "city": "WILMER",
+    "source": "COPART",
+    "lat": 32.589,
+    "lng": -96.6853,
+    "ports": [
+      {
+        "name": "TEXAS, USA",
+        "shipping_to_tr": 1450,
+        "shipping_to_uae": 2615,
+        "lat": 29.7604,
+        "lng": -95.3698,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "country": "USA",
+    "state": "CALIFORNIA (CA)",
+    "branch": "ACE - Carson (CA)",
+    "city": "Carson",
+    "source": "IAAI",
+    "lat": 33.8314,
+    "lng": -118.282,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3465,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 708,
+    "country": "USA",
+    "state": "CALIFORNIA (CA)",
+    "branch": "ACE - Perris (extra lot)",
+    "city": "Perris 775 Harley",
+    "source": "IAAI",
+    "lat": 33.7825,
+    "lng": -117.2286,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3495,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 709,
+    "country": "USA",
+    "state": "CALIFORNIA (CA)",
+    "branch": "CA - RANCHO CUCAMONGA",
+    "city": "Rancho",
+    "source": "COPART",
+    "lat": 34.1064,
+    "lng": -117.5931,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3495,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 710,
+    "country": "USA",
+    "state": "CALIFORNIA (CA)",
+    "branch": "CA - SAN BERNARDINO",
+    "city": "San Bernardino",
+    "source": "COPART",
+    "lat": 34.1083,
+    "lng": -117.2898,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3495,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 711,
+    "country": "USA",
+    "state": "CALIFORNIA (CA)",
+    "branch": "Fontana (extra lot)",
+    "city": "San Bernardino",
+    "source": "IAAI",
+    "lat": 34.073453,
+    "lng": -117.4965649,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3480,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 712,
+    "country": "USA",
+    "state": "CALIFORNIA (CA)",
+    "branch": "CA - SAN JOSE",
+    "city": "San Jose",
+    "source": "COPART",
+    "lat": 37.3382,
+    "lng": -121.8863,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3670,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "country": "USA",
+    "state": "CALIFORNIA (CA)",
+    "branch": "CA - VAN NUYS (extra lot)",
+    "city": "Santa Paula",
+    "source": "COPART",
+    "lat": 34.3542,
+    "lng": -119.0593,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3515,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 714,
+    "country": "USA",
+    "state": "CALIFORNIA (CA)",
+    "branch": "Los Angeles South (CA)",
+    "city": "Wilmington",
+    "source": "IAAI",
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3445,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "country": "USA",
+    "state": "IDAHO (ID)",
+    "branch": "ID - BOISE",
+    "city": "Nampa",
+    "source": "COPART",
+    "lat": 43.5407,
+    "lng": -116.5635,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3870,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 716,
+    "country": "USA",
+    "state": "NEVADA (NV)",
+    "branch": "NV - LAS VEGAS WEST (extra lot)",
+    "city": "Las Vegas 15120",
+    "source": "COPART",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3670,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 717,
+    "country": "USA",
+    "state": "NEVADA (NV)",
+    "branch": "Reno (NV)",
+    "city": "Mccarran",
+    "source": "IAAI",
+    "lat": 39.532,
+    "lng": -119.711,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3770,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 718,
+    "country": "USA",
+    "state": "NEVADA (NV)",
+    "branch": "NV - LAS VEGAS WEST",
+    "city": "North Las Vegas",
+    "source": "COPART",
+    "lat": 36.1989,
+    "lng": -115.1175,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3595,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "country": "USA",
+    "state": "OREGON (OR)",
+    "branch": "Portland South (OR)",
+    "city": "Woodburn",
+    "source": "IAAI",
+    "lat": 45.1432,
+    "lng": -122.8554,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3895,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 720,
+    "country": "USA",
+    "state": "OREGON (OR)",
+    "branch": "OR - PORTLAND SOUTH",
+    "city": "WOODBURN",
+    "source": "COPART",
+    "lat": 45.1432,
+    "lng": -122.8554,
+    "ports": [
+      {
+        "name": "CALIFORNIA, USA",
+        "shipping_to_tr": null,
+        "shipping_to_uae": 3895,
+        "lat": 33.7701,
+        "lng": -118.1937,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 721,
+    "country": "USA",
+    "state": "ILLINOIS (IL)",
+    "branch": "St. Louis (extra lot)",
+    "city": "GRANITE CITY",
+    "source": "IAAI",
+    "lat": 38.7014,
+    "lng": -90.1487,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1765,
+        "shipping_to_uae": 2995,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 722,
+    "country": "USA",
+    "state": "MICHIGAN (MI)",
+    "branch": "Detroit (extra lot)",
+    "city": "Detroit B & G Lot",
+    "source": "IAAI",
+    "lat": 42.3314,
+    "lng": -83.0458,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1715,
+        "shipping_to_uae": 2945,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 723,
+    "country": "USA",
+    "state": "WISCONSIN (WI)",
+    "branch": "WI - MILWAUKEE SOUTH (extra lot)",
+    "city": "Cudahy",
+    "source": "COPART",
+    "lat": 42.9597,
+    "lng": -87.8615,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1715,
+        "shipping_to_uae": 2945,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  },
+  {
+    "id": 724,
+    "country": "USA",
+    "state": "WEST VIRGINIA (WV)",
+    "branch": "Shady Spring (WV)",
+    "city": "Shady Spring",
+    "source": "IAAI",
+    "lat": 37.7051,
+    "lng": -81.1037,
+    "ports": [
+      {
+        "name": "NEW JERSEY, USA",
+        "shipping_to_tr": 1640,
+        "shipping_to_uae": 2870,
+        "lat": 40.7357,
+        "lng": -74.1724,
+        "avill": "true"
+      }
+    ]
+  }
+    ,
     {
       "id": 655,
       "country": "USA",
