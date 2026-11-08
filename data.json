@@ -4757,26 +4757,6 @@
       ]
     },
     {
-      "id": 160,
-      "country": "USA",
-      "state": "MINNESOTA (MN)",
-      "branch": "Minneapolis South (MN)",
-      "city": "RANDOLPH",
-      "source": "IAAI",
-      "lat": 44.53973363566356,
-      "lng": -93.00366807116386,
-      "ports": [
-        {
-          "name": "NEW JERSEY, USA",
-          "shipping_to_tr": 1925,
-          "shipping_to_uae": 2995,
-          "lat": 40.7357,
-          "lng": -74.1724,
-          "avill": "true"
-        }
-      ]
-    },
-    {
       "id": 161,
       "country": "USA",
       "state": "NEBRASKA (NE)",
