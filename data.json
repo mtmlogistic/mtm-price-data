@@ -10814,6 +10814,27 @@
         }
       ]
     },
+     {
+      "id": 656,
+      "country": "USA",
+      "source": "COPART",
+      "state": "MASSACHUSETTS (MA)",
+      "branch": "MA - SOUTH BOSTON",
+      "city": "South Boston",
+      "lat": 42.08967848550254,
+      "lng": -71.49857617116376,
+      "ports": [
+        {
+          "name": "NEW JERSEY, USA",
+          "shipping_to_tr": 1455,
+          "shipping_to_uae": 2660,
+          "lat": 42.08967848550254,
+          "lng": -71.49857617116376,
+          "avill": "true"
+        }
+      ]
+    }
+  ,
     {
       "id": 629,
       "country": "Canada",
