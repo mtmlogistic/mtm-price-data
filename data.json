@@ -10828,8 +10828,8 @@
           "name": "NEW JERSEY, USA",
           "shipping_to_tr": 1455,
           "shipping_to_uae": 2660,
-          "lat": 42.08967848550254,
-          "lng": -71.49857617116376,
+           "lat": 40.7357,
+          "lng": -74.1724,
           "avill": "true"
         }
       ]
